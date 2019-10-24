@@ -1,6 +1,9 @@
 ### Date created
 24-10-2019
 
+### Date modified
+25-10-2019
+
 ### Project Title
 BikeShareAnalytics
 
@@ -9,6 +12,9 @@ This will have code related to bikeshare data plots
 
 ### Files used
 No other file used. Everything is contained here
+
+### Functionalities present
+Functionality to calculate sum of travel time
 
 ### Credits
 The company that we work for.
