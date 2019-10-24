@@ -12,3 +12,7 @@ meanOfTravelTime <- function(dataset) {
    mean(dataset$Trip.Duration, na.rm = TRUE)
 }
 
+# Returns count of particular user types
+countOfUserTypes <- function(dataset, userType) {
+   sum(dataset$User.Type == userType)
+}
