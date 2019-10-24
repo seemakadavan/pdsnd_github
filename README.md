@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+24-10-2019
 
 ### Project Title
-Replace the Project Title
+BikeShareAnalytics
 
 ### Description
-Describe what your project is about and what it does
+This will have code related to bikeshare data plots
 
 ### Files used
-Include the files used
+No other file used. Everything is contained here
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The company that we work for.
 
